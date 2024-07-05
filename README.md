@@ -75,7 +75,7 @@ cd autotiling && makepkg -si
 cd ..
 ```
 
-## picom best
+## picom (best)
 ```
 git clone https://aur.archlinux.org/picom-ftlabs-git.git picom
 cd picom && makepkg -si

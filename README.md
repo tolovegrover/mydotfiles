@@ -1,4 +1,4 @@
-# AUR packages I install
+# My new system configurations
 ### Use one at a time, dont be a hero who runs all and ruin everything.
 
 ```
@@ -98,8 +98,12 @@ sudo pacman -Sy nvidia-utils
 sudo pacman -Sy nvidia-settings
 ```
 
-- Install Matlab
-- ![wallpaper](https://github.com/tolovegrover/mydotfiles/assets/59788502/25848dea-26bb-4c87-b81d-6209618bf2ec)
+- Install Matlab!
+- [wallpaper](https://github.com/tolovegrover/mydotfiles/assets/59788502/25848dea-26bb-4c87-b81d-6209618bf2ec)
+
+
+
+- [movie](https://github.com/tolovegrover/mydotfiles/assets/59788502/8981c1e5-575d-4204-b9c4-7a5c2a9cf98d)
 
 
 

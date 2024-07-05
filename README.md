@@ -98,6 +98,9 @@ sudo pacman -Sy nvidia-utils
 sudo pacman -Sy nvidia-settings
 ```
 
+- Install Matlab
+- ![wallpaper](https://github.com/tolovegrover/mydotfiles/assets/59788502/25848dea-26bb-4c87-b81d-6209618bf2ec)
+
 
 
 
